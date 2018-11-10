@@ -53,7 +53,7 @@ shift + Enter
 
 
 ```
-python demo.py
+python demo.py --im_path=./images/demo.png
 ```
 
 ## License
